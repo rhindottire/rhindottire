@@ -4,11 +4,11 @@
 
 <h1 align="center">⚒️ Tech and Tools ⚒️</h1>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,javascript,typescript,php,java" /><br>
-  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,sass,nodejs,express,react,vue,angular"/><br>
-  <img src="https://skillicons.dev/icons?i=scala,flutter,laravel,bun,elysia,nextjs,nuxt,nest"/><br>
-  <img src="https://skillicons.dev/icons?i=prisma,sqlite,mysql,postgres,mongodb,firebase,supabase,docker"/><br>
-  <img src="https://skillicons.dev/icons?i=sublime,vscode,visualstudio,androidstudio,qt,idea,vite,wordpress"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,typescript,php,java" /><br>
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,nodejs,react,vue,angular"/><br>
+  <img src="https://skillicons.dev/icons?i=prisma,bun,elysia,nextjs,nuxt,nest"/><br>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase,laravel"/><br>
+  <!-- <img src="https://skillicons.dev/icons?i=vscode,idea,wordpress,docker,flutter,scala"/> -->
 </div>
 
 <details>
